@@ -195,4 +195,6 @@ Program powinien wczytać długość skoku (d) i oceny wystawione przez pięciu 
     }
 }
 
+//zmiana abc
+
 
